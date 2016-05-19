@@ -7,3 +7,4 @@ CREATE TABLE "order" (
 
 INSERT INTO "order" (name, description) VALUES ('Nexus', 'Google Nexus 6P 128 GB Graphite');
 INSERT INTO "order" (name, description) VALUES ('Pixel', 'Google Pixel LS 2015');
+INSERT INTO "order" (name, description) VALUES ('jeff', 'tw');
